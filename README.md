@@ -5,7 +5,7 @@ Customer personality analysis helps a business to modify its product based on it
 
 For example, instead of spending money to market a new product to every customer in the company’s database, a company can analyze which customer segment is most likely to buy the product and then market the product only on that particular segment.
 
-### Goal : Peform clustering to summarize customer segments to market them with relevant products.
+### Goal : Perform K-means clustering to summarize customer segments to market them with relevant products.
 
 ## Column Description
 People
